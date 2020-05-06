@@ -1,3 +1,5 @@
+English/[Japanese](index_jp.md)
+
 # SICE WG for Post Corona Future Society in Japan
 
 SICE has launched a new special Working Group for Post Corona Future Society in Japan. 

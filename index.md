@@ -13,6 +13,15 @@ The proposal will also mention the contribution to the Sustainable Development G
 
 The proposal of the working group will provide an opportunity for researchers and engineers who have already begun research related to the super-smart society to review their own research and development issues from a broader perspective. It is also for researchers and engineers who have not been directly involved in the super-smart society to present approaches to the research and provide opportunities to enter this field. The proposal will be shared among SICE members, as well as with other academic societies and relevant government agencies, where we introduce the approaches to the super-smart society that SICE is already working on, and show examples of research issues that will be important in realizing the SDGs and a post-corona society, with which we hope the researchers and engineers can develop into collaborative works.
 
+## Links
+### COVID-19
+- [http://medg.jp/mt/?p=9585](http://medg.jp/mt/?p=9585) (written in Japanese)
+- [https://www.ei.tum.de/index.php?id=6875](https://www.ei.tum.de/index.php?id=6875)
+- [http://cacsd2.sakura.ne.jp/covid19/](http://cacsd2.sakura.ne.jp/covid19/) (written in Japanese)
+- [http://www.ieeecss.it/events/covid.html](http://www.ieeecss.it/events/covid.html)
+- [https://www.nature.com/articles/s41591-020-0883-7](https://www.nature.com/articles/s41591-020-0883-7)
+- [https://arxiv.org/abs/2004.13216](https://arxiv.org/abs/2004.13216)
+
 ## Member
 - Akira Ono, SICE President, AIST
 - [Masayuki Fujita](http://www.fl.ctrl.titech.ac.jp/member2/fujita/fujitae.html), WG Leader, SICE Vice-President, The University of Tokyo

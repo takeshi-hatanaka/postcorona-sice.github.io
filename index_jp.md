@@ -1,4 +1,4 @@
-[English page](index.md)/Japnese page
+[English](index.md)/Japanese
 
 # SICE ポストコロナ未来社会ワーキンググループ
 SICEでは，ポストコロナ未来社会ワーキンググループを2020年度より始動いたしました．

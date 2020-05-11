@@ -29,7 +29,7 @@ SICEでは，ポストコロナ未来社会ワーキンググループを2020年
 - 主査：[藤田政之](http://www.fl.ctrl.titech.ac.jp/member2/fujita/fujitae.html), 東京大学
 - 顧問：前田章, JST
 - 顧問：小川雅晴, 三菱電機
-- 幹事：[永原正章](nagahara-masaaki.github.io), 北九州市立大学
+- 幹事：[永原正章](https://nagahara-masaaki.github.io), 北九州市立大学
 - 委員：[飯野穣](https://researchmap.jp/yutakaiino?lang=en), 早稲田大学
 - 委員：[谷口忠大](http://www.tanichu.com/), 立命館大学
 - 委員：[畑中健志](http://is.eei.eng.osaka-u.ac.jp/hatanaka/index.php), 東京工業大学

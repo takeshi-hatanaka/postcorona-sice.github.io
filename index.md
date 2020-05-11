@@ -23,6 +23,11 @@ The proposal of the working group will provide an opportunity for researchers an
 - [http://www.ieeecss.it/events/covid.html](http://www.ieeecss.it/events/covid.html)
 - [https://www.nature.com/articles/s41591-020-0883-7](https://www.nature.com/articles/s41591-020-0883-7)
 - [https://arxiv.org/abs/2004.13216](https://arxiv.org/abs/2004.13216)
+- [https://spectrum.ieee.org/biomedical/diagnostics/how-control-theory-can-help-control-covid19](https://spectrum.ieee.org/biomedical/diagnostics/how-control-theory-can-help-control-covid19
+)
+- [https://sysic.org/wp/wp-content/uploads/2020/04/SICニュースレターVol.2.420.4.7a.pdf](https://sysic.org/wp/wp-content/uploads/2020/04/SICニュースレターVol.2.420.4.7a.pdf) (written in Japanese)
+- [https://sysic.org/wp/wp-content/uploads/2020/05/SICニュースレターVol.2.520.5.7-3.pdf](https://sysic.org/wp/wp-content/uploads/2020/05/SICニュースレターVol.2.520.5.7-3.pdf) (written in Japanese)
+
 
 ## Member
 - Akira Ono, SICE President, AIST

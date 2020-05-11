@@ -18,6 +18,11 @@ SICEでは，ポストコロナ未来社会ワーキンググループを2020年
 - [http://www.ieeecss.it/events/covid.html](http://www.ieeecss.it/events/covid.html)
 - [https://www.nature.com/articles/s41591-020-0883-7](https://www.nature.com/articles/s41591-020-0883-7)
 - [https://arxiv.org/abs/2004.13216](https://arxiv.org/abs/2004.13216)
+- [https://spectrum.ieee.org/biomedical/diagnostics/how-control-theory-can-help-control-covid19](https://spectrum.ieee.org/biomedical/diagnostics/how-control-theory-can-help-control-covid19
+)
+- [https://sysic.org/wp/wp-content/uploads/2020/04/SICニュースレターVol.2.420.4.7a.pdf](https://sysic.org/wp/wp-content/uploads/2020/04/SICニュースレターVol.2.420.4.7a.pdf)
+- [https://sysic.org/wp/wp-content/uploads/2020/05/SICニュースレターVol.2.520.5.7-3.pdf](https://sysic.org/wp/wp-content/uploads/2020/05/SICニュースレターVol.2.520.5.7-3.pdf)
+
 
 ## メンバー
 - SICE会長 小野晃, 産業技術総合研究所

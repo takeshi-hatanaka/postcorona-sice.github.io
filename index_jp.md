@@ -12,6 +12,7 @@ SICEでは，ポストコロナ未来社会ワーキンググループを2020年
 
 ## リンク
 ### COVID-19に関する記事
+- [COVID-19の感染拡大モデルと『ネットワーク化制御』](https://www.coronasha.co.jp/np/article/11/)
 - [医療ガバナンス学会メールマガジンVol.08](http://medg.jp/mt/?p=9585) (written in Japanese)
 - [Mathematical Theories on Corona Pandemic (COVID-19)](https://www.ei.tum.de/index.php?id=6875)
 - [感染ダイナミクス（梶原宏之先生の記事）](http://cacsd2.sakura.ne.jp/covid19/) (written in Japanese)
@@ -20,7 +21,6 @@ SICEでは，ポストコロナ未来社会ワーキンググループを2020年
 )
 - [SICニュースレターVol.2.4（木村英紀先生の記事）](https://sysic.org/wp/wp-content/uploads/2020/04/SICニュースレターVol.2.420.4.7a.pdf)
 - [SICニュースレターVol.2.5（木村英紀先生の記事）](https://sysic.org/wp/wp-content/uploads/2020/05/SICニュースレターVol.2.520.5.7-3.pdf)
-- [COVID-19の感染拡大モデルと『ネットワーク化制御』](https://www.coronasha.co.jp/np/article/11/)
 ### COVID-19に関する論文
 - [論文 (Nature Medicine)](https://www.nature.com/articles/s41591-020-0883-7)
 - [https://arxiv.org/abs/2004.13216](https://arxiv.org/abs/2004.13216)

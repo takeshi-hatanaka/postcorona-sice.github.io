@@ -11,17 +11,20 @@ SICEでは，ポストコロナ未来社会ワーキンググループを2020年
 本WGの提言は、すでに超スマート社会に関連した研究を始めている研究者・技術者には自己の研究開発課題をより広い視点から見直す契機となることを期待するとともに、これまで超スマート社会とは直接関わりのなかった研究者・技術者にはそこへのアプローチを提示し、参入の機会となることを期待する。また本WGの提言はSICE会員内で共有するとともに、他学会や関連政府機関とも共有し、SICEがすでに取り組んでいる超スマート社会へのアプローチを紹介するとともに、SDGsやポストコロナ社会の実現で重要となる研究課題を例示して、協同作業に発展することを期待する。
 
 ## リンク
-### COVID-19
-- [http://medg.jp/mt/?p=9585](http://medg.jp/mt/?p=9585) (written in Japanese)
-- [https://www.ei.tum.de/index.php?id=6875](https://www.ei.tum.de/index.php?id=6875)
-- [http://cacsd2.sakura.ne.jp/covid19/](http://cacsd2.sakura.ne.jp/covid19/) (written in Japanese)
-- [http://www.ieeecss.it/events/covid.html](http://www.ieeecss.it/events/covid.html)
-- [https://www.nature.com/articles/s41591-020-0883-7](https://www.nature.com/articles/s41591-020-0883-7)
-- [https://arxiv.org/abs/2004.13216](https://arxiv.org/abs/2004.13216)
-- [https://spectrum.ieee.org/biomedical/diagnostics/how-control-theory-can-help-control-covid19](https://spectrum.ieee.org/biomedical/diagnostics/how-control-theory-can-help-control-covid19
+### COVID-19に関する記事
+- [医療ガバナンス学会メールマガジンVol.08](http://medg.jp/mt/?p=9585) (written in Japanese)
+- [Mathematical Theories on Corona Pandemic (COVID-19)](https://www.ei.tum.de/index.php?id=6875)
+- [感染ダイナミクス（梶原宏之先生の記事）](http://cacsd2.sakura.ne.jp/covid19/) (written in Japanese)
+- [Modeling and Control of the COVID-19 Outbreak (IEEE CSS Italy)](http://www.ieeecss.it/events/covid.html)
+- [How Control Theory Can Help Us Control COVID-19 (IEEE Spectrum)](https://spectrum.ieee.org/biomedical/diagnostics/how-control-theory-can-help-control-covid19
 )
-- [https://sysic.org/wp/wp-content/uploads/2020/04/SICニュースレターVol.2.420.4.7a.pdf](https://sysic.org/wp/wp-content/uploads/2020/04/SICニュースレターVol.2.420.4.7a.pdf)
-- [https://sysic.org/wp/wp-content/uploads/2020/05/SICニュースレターVol.2.520.5.7-3.pdf](https://sysic.org/wp/wp-content/uploads/2020/05/SICニュースレターVol.2.520.5.7-3.pdf)
+- [SICニュースレターVol.2.4（木村英紀先生の記事）](https://sysic.org/wp/wp-content/uploads/2020/04/SICニュースレターVol.2.420.4.7a.pdf)
+- [SICニュースレターVol.2.5（木村英紀先生の記事）](https://sysic.org/wp/wp-content/uploads/2020/05/SICニュースレターVol.2.520.5.7-3.pdf)
+- [COVID-19の感染拡大モデルと『ネットワーク化制御』](https://www.coronasha.co.jp/np/article/11/)
+### COVID-19に関する論文
+- [論文 (Nature Medicine)](https://www.nature.com/articles/s41591-020-0883-7)
+- [https://arxiv.org/abs/2004.13216](https://arxiv.org/abs/2004.13216)
+- [https://arxiv.org/pdf/2005.03580](https://arxiv.org/abs/2005.03580)
 
 
 ## メンバー

@@ -31,7 +31,7 @@ The proposal of the working group will provide an opportunity for researchers an
 
 ## Member
 - Akira Ono, SICE President, AIST
-- [Masayuki Fujita](http://www.fl.ctrl.titech.ac.jp/member2/fujita/fujitae.html), WG Leader, SICE Vice-President, The University of Tokyo
+- [Masayuki Fujita](https://www.scl.ipc.i.u-tokyo.ac.jp/member2/fujita/fujitae.html), WG Leader, SICE Vice-President, The University of Tokyo
 - Akira Maeda, Adviser, JST
 - Masaharu Ogawa, Adviser, Mitsubishi Electric
 - [Masaaki Nagahara](https://nagahara-masaaki.github.io), Secretary, The University of Kitakyushu

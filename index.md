@@ -4,6 +4,10 @@ English/[Japanese](index_jp.md)
 
 SICE has launched a new special Working Group for Post Corona Future Society in Japan. 
 
+## News
+The first workshop on postcorona future society will be virtually held on 6th/June/2020!
+Please check [this page](https://postcorona-sice.github.io/ws2020_1_en.html).
+
 ## Mission
 Society 5.0, proposed by Japan, is based on the technology of cyber-physical systems,
 and aims to realize a human-centered super-smart society.

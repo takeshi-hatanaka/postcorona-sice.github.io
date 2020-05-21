@@ -16,8 +16,8 @@ SICEでは，ポストコロナ未来社会ワーキンググループを2020年
 - **企画**：[SICEポストコロナ未来社会WG](https://postcorona-sice.github.io/index_jp.html)
 - **協賛**：
   - [IEICE　信号処理研究専門委員会 (SIP)](https://www.ieice.org/~sip/)
+  - [IEICE 高信頼制御通信研究会 (RCC)](https://www.ieice.org/~rcc/index.php)
   - [システムイノベーションセンター (SIC)](https://sysic.org)（依頼中）
-  - [IEICE 高信頼制御通信研究会 (RCC)](https://www.ieice.org/~rcc/index.php)（依頼中）
   - [システム制御情報学会](https://www.iscie.or.jp)（依頼中）
 - **参加登録**：
   - 参加費は無料です．

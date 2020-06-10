@@ -19,6 +19,7 @@ SICEでは，ポストコロナ未来社会ワーキンググループを2020年
 - **企画**：[SICEポストコロナ未来社会WG](https://postcorona-sice.github.io/index_jp.html)
 - **協賛**：
   - [IEICE 高信頼制御通信研究会 (RCC)](https://www.ieice.org/~rcc/index.php)
+  - [IEEE CSS Japan chapter](https://www.ieee-jp.org/section/tokyo/chapter/CS-23/css_japan.html)
 - **講演者**：
    - 遠藤玄（東工大）　
    - 川嶋健嗣（東大）　

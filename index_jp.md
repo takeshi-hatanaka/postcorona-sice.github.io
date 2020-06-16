@@ -15,6 +15,8 @@ SICEでは，ポストコロナ未来社会ワーキンググループを2020年
 - **日時**：7月22日（水）13:00-15:30
 - **開催**：Zoomによるオンラインワークショップ
   - Zoomをご利用いただけない方もご視聴いただける方法を検討中です
+- **参加費**: 3,000円  
+- **参加登録**：[こちら](https://postcorona-sice-ws2020-02.peatix.com)
 - **主催**：[計測自動制御学会 (SICE)](https://www.sice.jp)
 - **企画**：[SICEポストコロナ未来社会WG](https://postcorona-sice.github.io/index_jp.html)
 - **協賛**：

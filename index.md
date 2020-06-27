@@ -5,7 +5,9 @@ English/[Japanese](index_jp.md)
 SICE has launched a new special Working Group for Post Corona Future Society in Japan. 
 
 ## News
-The first workshop on postcorona future society will be virtually held on 6th/June/2020!
+- The second workshop on postcorona future society will be virtually held on 22nd/July/2020!
+Please check [this page](https://postcorona-sice.github.io/ws2020_2_en.html).
+- The first workshop on postcorona future society was virtually held on 6th/June/2020.
 Please check [this page](https://postcorona-sice.github.io/ws2020_1_en.html).
 
 ## Mission
